@@ -1,5 +1,11 @@
 # Code-Refractor
-Homework 1 - HTML, CSS, Git
-<h3> # The task was to make the starter code more readible WITHOUT changing how the site looked. I did this by using semantic HTML elements to organize the header, body, and footer. 
-# Next I grouped the classes with the same targeted attributes together to condense the CSS code
-# I then included alt tags and image descripstions for the the images.</h3>
+Homework 1 - Using semantic HTML and condensing CSS
+<h3> *We were given starter code. The task was to make the starter code easier to read, WITHOUT changing how the site looked when launched. 
+<br>
+<p>*I did this by using semantic HTML elements to organize the header, body, and footer. </p>
+<br>
+<p>*Next I edited my CSS classes to match the HTML elements.</p>
+<br>
+<p>* I then grouped the classes in CSS (with the same targeted attributes together) to condense the CSS code.
+<br>
+<p>* I then included alt tags and image descripstions for the the images.</p></h3>
