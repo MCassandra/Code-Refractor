@@ -4,8 +4,8 @@ Homework 1 - Using semantic HTML and condensing CSS
 <br>
 <p>*I did this by using semantic HTML elements to organize the header, body, and footer. </p>
 <br>
-<p>*Next I edited my CSS classes to match the HTML elements.</p>
+<p>*Next I edited my CSS selectors to match the HTML elements.</p>
 <br>
-<p>* I then grouped the classes in CSS (with the same targeted attributes together) to condense the CSS code.
+<p>* I then grouped the classes in CSS (with the same targeted attributes)together to condense the CSS code.
 <br>
-<p>* I then included alt tags and image descripstions for the the images.</p></h3>
+<p>* I then included alt tags and image descriptions for the the images.</p></h3>
